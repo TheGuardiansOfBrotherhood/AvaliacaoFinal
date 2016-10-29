@@ -1,4 +1,4 @@
-package controllers;
+package subjects;
 
 import java.util.ArrayList;
 import java.util.List;

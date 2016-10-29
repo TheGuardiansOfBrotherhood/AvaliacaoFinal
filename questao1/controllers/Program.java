@@ -5,6 +5,7 @@ import observers.DispositivoEscuta;
 import observers.Fax;
 import observers.ObservadorGenerico;
 import observers.SecretariaEletronica;
+import subjects.TelefoneSubject;
 
 
 public class Program {
